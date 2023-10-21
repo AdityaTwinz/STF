@@ -1,6 +1,6 @@
 
 #### CARA INSTALL SCRIPT:
- download aplikasi termux android di [sini!](https://f-droid.org/repo/com.termux_117.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
+ download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
  ```
  $ pkg update && pkg upgrade
  $ pkg install python git
@@ -9,7 +9,7 @@
  $ rm -rf STF
  $ git clone https://github.com/AdityaTwinz/STF
  ```
- oke sekarang script sudah terinstall
+ ###### oke sekarang script sudah terinstall
 ##### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
