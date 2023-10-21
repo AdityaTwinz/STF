@@ -1,4 +1,4 @@
-![@adityaexec_]()
+![@adityaexec_](https://github.com/AdityaTwinz/STF/blob/main/images/%40AdityaExec_.png)
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
