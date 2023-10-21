@@ -1,3 +1,4 @@
+![@adityaexec_]()
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
@@ -9,7 +10,7 @@
  $ rm -rf STF
  $ git clone https://github.com/AdityaTwinz/STF
  ```
- ###### oke sekarang script sudah terinstall
+#### oke sekarang script sudah terinstall
 ##### CARA MENJALANKAN SCRIPT:
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
@@ -17,7 +18,7 @@
   $ python run.py
  ```
 ##### TAMPILAN MENU:
-![template_s]()
+![@adityaexec_]()
 
 
 ###### Thanks for [AdityaTwinz](https://github.com/AdityaTwinz) and [Xyaa-Code](https://github.com/Xyaa-Code)
