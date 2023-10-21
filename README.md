@@ -17,7 +17,9 @@
   $ python run.py
  ```
 ##### TAMPILAN MENU:
-![@adityaexec_]()
+![@adityaexec_](https://github.com/AdityaTwinz/STF/blob/main/images/Screenshot_2023-10-21-11-45-11-77_84d3000e3f4017145260f7618db1d683.jpg)
 
+#### watch me
+##### gunakanlah dengan bijak, atas apapun yang terjadi admin tidak bertanggung jawab.
 
 ###### Thanks for [AdityaTwinz](https://github.com/AdityaTwinz) and [Xyaa-Code](https://github.com/Xyaa-Code)
