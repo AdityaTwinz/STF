@@ -5,8 +5,6 @@
  ```
  $ pkg update && pkg upgrade
  $ pkg install python git
- $ pip install requests bs4 futures
- $ pip install rich
  $ rm -rf STF
  $ git clone https://github.com/AdityaTwinz/STF
  ```
@@ -15,6 +13,7 @@
  sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
  ```
   $ cd STF
+  $ pip install -r assets/requirements.txt
   $ python run.py
  ```
 ##### TAMPILAN MENU:
